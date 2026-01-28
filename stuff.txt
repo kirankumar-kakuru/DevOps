@@ -1,0 +1,12 @@
+manually connect to AWS instance
+
+ ] synatax : ssh -i private-key ec2-user@Public-IPv4-address/Public-DNS
+ 
+ ] ssh -i daws-88s ec2-user@13.221.19.116
+
+
+
+AMI : ami-0220d79f3f480ecf5
+
+
+git ID : kiranwls6-oss

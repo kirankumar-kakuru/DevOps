@@ -11,4 +11,4 @@ echo "home Directory: $HOME"
 echo "PID of the script: $$"
 sleep 20 &
 echo "background PID: $!"
-echo all arguments paased to script: $*"
+echo "all arguments paased to script: $*"

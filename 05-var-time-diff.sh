@@ -4,6 +4,8 @@ START_TIME=$(date +%s)
 
 echo "script executed on $START_TIME"
 
+sleep 5
+
 END_TIME=$(date +s%)
 TOTAL_TIME=$(($END_TIME-$START_TIME))
 

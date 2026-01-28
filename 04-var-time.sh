@@ -1,5 +1,5 @@
 #!/bin/bash
 
-TIME_STAMP=$(date)
+START_TIME=$(date)
 
-echo "script executed on $TIME_STAMP"
+echo "script executed on $START_TIME"
